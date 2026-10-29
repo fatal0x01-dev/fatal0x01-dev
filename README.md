@@ -1,29 +1,16 @@
-# security research
+# fatal0x01
 
-i work on low-level system security, with a focus on firmware, uefi, hypervisors, windows/linux internals, virtualization and security tooling.
+focused on adversary tradecraft across windows environments, active directory and systems-level security.
 
-my research includes both offensive and defensive techniques, with an emphasis on understanding system boundaries, attack surfaces and detection.
+interests include domain attack paths, authentication protocols, privilege escalation, lateral movement, windows internals, firmware and hypervisor security.
 
-most experimental work is performed against owned hardware, emulated systems and isolated laboratory environments.
+building practical tooling and controlled research environments to investigate offensive techniques, validate security assumptions and understand defensive visibility.
 
-### areas
+**areas of focus**
+- active directory & enterprise windows environments
+- authentication, privilege escalation & lateral movement
+- windows internals & execution mechanisms
+- adversary simulation & operational tooling
+- firmware, hypervisors & low-level security research
 
-* firmware / uefi / smm research
-* windows & linux internals
-* hypervisor and virtualization research
-* vulnerability research and reverse engineering
-* threat hunting and security telemetry
-* digital forensics
-* security automation
-
-### selected work
-
-**argus** — ai orchestration and automation
-
-**vmctl** — lightweight qemu/kvm management for isolated security research labs
-
-**ai-threat-hunter** — tooling for security telemetry, analysis and threat hunting
-
-**firmware research** — analysis of uefi/smm attack surfaces and firmware security
-
-some repositories are forks of existing security-research projects and are maintained publicly for experimentation, analysis and learning.
+[research & tooling](https://github.com/fatal0x01-dev?tab=repositories) · [offensive security tooling](https://github.com/stager0x)
